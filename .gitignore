@@ -12,3 +12,5 @@ build/
 
 #virtual environment
 backend/opsft/
+# IDE settings
+.vscode/
