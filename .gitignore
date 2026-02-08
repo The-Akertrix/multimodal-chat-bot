@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Node / Python dependencies
+node_modules/
+backend/venv/
+__pycache__/
+
+# Build files
+dist/
+build/
